@@ -3,14 +3,6 @@ package com.denis;
 public class Age {
     private int year;
 
-    public Age() {
-        year = 0;
-    }
-
-    public Age(int year) {
-        this.year = year;
-    }
-
     public int getYear() {
         return year;
     }
